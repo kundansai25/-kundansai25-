@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kundansai 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Developer @ BNY Mellon</b><br/>
+  <b>Full-Stack Software Developer @ Nielsen</b><br/>
   Building scalable systems in fintech · Passionate about distributed computing & ML
 </p>
 
